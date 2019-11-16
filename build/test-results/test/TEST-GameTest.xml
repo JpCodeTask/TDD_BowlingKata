@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GameTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-11-16T08:16:31" hostname="jakub-Inspiron-5379" time="0.029">
+  <properties/>
+  <testcase name="when roll twenty 1 then score is 20()" classname="GameTest" time="0.023"/>
+  <testcase name="when roll more then 0 then score change()" classname="GameTest" time="0.001"/>
+  <testcase name="when new game then score is 0()" classname="GameTest" time="0.001"/>
+  <testcase name="when roll single spare and zeros()" classname="GameTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
